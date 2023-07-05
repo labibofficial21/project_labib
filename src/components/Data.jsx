@@ -79,14 +79,16 @@ export const dataList = {
 		<div>
 			<Space direction="vertical">
 				<Text>Project ini menggunakan Javascript dan library ReactJS</Text>
-				<Button
-					href="https://github.com/labibofficial21/project-job-seeker.git"
-					target="_blank">
-					Cek Project
-				</Button>
-				<Button href="#" target="_blank">
-					Repo
-				</Button>
+				<Space>
+					<Button
+						href="https://github.com/labibofficial21/project-job-seeker.git"
+						target="_blank">
+						Cek Project
+					</Button>
+					<Button href="#" target="_blank">
+						Repo
+					</Button>
+				</Space>
 			</Space>
 		</div>
 	),
@@ -94,14 +96,16 @@ export const dataList = {
 		<div>
 			<Space direction="vertical">
 				<Text>Project ini menggunakan Javascript dan library JQuery</Text>
-				<Button
-					href="https://github.com/labibofficial21/project-ena-calendar-front.git"
-					target="_blank">
-					Cek Project
-				</Button>
-				<Button href="#" target="_blank">
-					Repo
-				</Button>
+				<Space>
+					<Button
+						href="https://github.com/labibofficial21/project-ena-calendar-front.git"
+						target="_blank">
+						Cek Project
+					</Button>
+					<Button href="#" target="_blank">
+						Repo
+					</Button>
+				</Space>
 			</Space>
 		</div>
 	),
@@ -112,14 +116,16 @@ export const dataList = {
 					Project ini murni menggunakan HTML, CSS, dan Javascript. Project ini
 					juga menggunakan Framework CSS Bootstrap
 				</Text>
-				<Button
-					href="https://github.com/labibofficial21/project-english-course.git"
-					target="_blank">
-					Cek Project
-				</Button>
-				<Button href="kamarbahasainggris.infinityfreeapp.com" target="_blank">
-					Repo
-				</Button>
+				<Space>
+					<Button
+						href="https://github.com/labibofficial21/project-english-course.git"
+						target="_blank">
+						Cek Project
+					</Button>
+					<Button href="kamarbahasainggris.infinityfreeapp.com" target="_blank">
+						Repo
+					</Button>
+				</Space>
 			</Space>
 		</div>
 	),
