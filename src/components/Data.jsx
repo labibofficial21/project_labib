@@ -6,6 +6,7 @@ import {
 	FacebookFilled,
 	GoogleOutlined,
 } from "@ant-design/icons";
+import Link from "antd/es/typography/Link";
 
 const { Text } = Typography;
 
@@ -85,8 +86,10 @@ export const dataList = {
 						target="_blank">
 						Cek Project
 					</Button>
-					<Button href="#" target="_blank">
-						Repo
+					<Button>
+						<Link href="#" target="_blank">
+							Repo
+						</Link>
 					</Button>
 				</Space>
 			</Space>
@@ -102,8 +105,10 @@ export const dataList = {
 						target="_blank">
 						Cek Project
 					</Button>
-					<Button href="#" target="_blank">
-						Repo
+					<Button>
+						<Link href="#" target="_blank">
+							Repo
+						</Link>
 					</Button>
 				</Space>
 			</Space>
@@ -122,8 +127,12 @@ export const dataList = {
 						target="_blank">
 						Cek Project
 					</Button>
-					<Button href="kamarbahasainggris.infinityfreeapp.com" target="_blank">
-						Repo
+					<Button>
+						<Link
+							href="http://kamarbahasainggris.infinityfreeapp.com/"
+							target="_blank">
+							Repo
+						</Link>
 					</Button>
 				</Space>
 			</Space>
