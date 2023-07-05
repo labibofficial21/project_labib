@@ -87,7 +87,7 @@ export const dataList = {
 						Cek Project
 					</Button>
 					<Button>
-						<Link href="#" target="_blank">
+						<Link href="https://jobseeker-project.netlify.app/" target="_blank">
 							Repo
 						</Link>
 					</Button>
