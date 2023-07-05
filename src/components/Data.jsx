@@ -84,6 +84,9 @@ export const dataList = {
 					target="_blank">
 					Cek Project
 				</Button>
+				<Button href="#" target="_blank">
+					Repo
+				</Button>
 			</Space>
 		</div>
 	),
@@ -95,6 +98,9 @@ export const dataList = {
 					href="https://github.com/labibofficial21/project-ena-calendar-front.git"
 					target="_blank">
 					Cek Project
+				</Button>
+				<Button href="#" target="_blank">
+					Repo
 				</Button>
 			</Space>
 		</div>
@@ -110,6 +116,9 @@ export const dataList = {
 					href="https://github.com/labibofficial21/project-english-course.git"
 					target="_blank">
 					Cek Project
+				</Button>
+				<Button href="kamarbahasainggris.infinityfreeapp.com" target="_blank">
+					Repo
 				</Button>
 			</Space>
 		</div>
