@@ -101,7 +101,7 @@ export const dataList = {
 				<Text>Project ini menggunakan Javascript dan library JQuery</Text>
 				<Space>
 					<Button
-						href="https://github.com/labibofficial21/project-ena-calendar-front.git"
+						href="https://github.com/Bangik/ena-calendar-front.git"
 						target="_blank">
 						Cek Project
 					</Button>
