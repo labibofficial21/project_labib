@@ -19,6 +19,7 @@ export default function Home() {
 					<Text style={{ fontSize: 18 }}>Front-End Web Developer</Text>
 				</div>
 			</div>
+
 			<div className="contact">
 				{buttonInfo.map((value, key) => (
 					<a href={value.link} target="_blank">
